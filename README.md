@@ -1,3 +1,3 @@
 # db-capstone-project
 
-Meta Data Engineerin Capstone project
+Meta Data Engineering Capstone project
